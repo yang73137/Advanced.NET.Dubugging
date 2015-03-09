@@ -1,0 +1,6 @@
+F:\程序\Advanced .NET Debugging\Advanced.NET.Debugging.Chapter5\bin\Debug\Advanced.NET.Debugging.Chapter5.exe.config
+F:\程序\Advanced .NET Debugging\Advanced.NET.Debugging.Chapter5\bin\Debug\Advanced.NET.Debugging.Chapter5.exe
+F:\程序\Advanced .NET Debugging\Advanced.NET.Debugging.Chapter5\bin\Debug\Advanced.NET.Debugging.Chapter5.pdb
+F:\程序\Advanced .NET Debugging\Advanced.NET.Debugging.Chapter5\obj\Debug\Advanced.NET.Debugging.Chapter5.csprojResolveAssemblyReference.cache
+F:\程序\Advanced .NET Debugging\Advanced.NET.Debugging.Chapter5\obj\Debug\Advanced.NET.Debugging.Chapter5.exe
+F:\程序\Advanced .NET Debugging\Advanced.NET.Debugging.Chapter5\obj\Debug\Advanced.NET.Debugging.Chapter5.pdb
