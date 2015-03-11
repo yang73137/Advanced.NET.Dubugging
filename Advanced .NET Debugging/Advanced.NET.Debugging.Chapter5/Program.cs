@@ -29,8 +29,14 @@ namespace Advanced.NET.Debugging.Chapter5
 
         static void Main(string[] args)
         {
-            Finalize finalize = new Finalize();
-            finalize.Run();
+            //Finalize finalize = new Finalize();
+            //finalize.Run();
+
+            //var loh = new LOH();
+            //loh.Run();
+
+            var pinning = new Pinning();
+            pinning.Run();
         }
 
         public void Gen()
